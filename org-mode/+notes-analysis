@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: +notes-analysis
+# key: +notes-analysis
+# --
+
+#+caption: description of issue
+$1
+
+#+caption: snippets of errors
+${2:copy and paste}
+
+#+caption: action plan
+- [ ] $3

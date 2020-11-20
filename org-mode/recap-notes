@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: recap-notes
+# key: recap-notes
+# --
+
+#+caption: recap of \"$1\" on `(format-time-string "[%Y-%m-%d %a %H:%M]")`
+Discussion of \"$1\" on `(format-time-string "[%Y-%m-%d %a %H:%M]")`: $2
